@@ -1,0 +1,32 @@
+            body{
+				background-image:url(../img/bg.png);
+				width:100%;
+				font-family:Verdana, Geneva, sans-serif ;
+				}
+			.users{
+				width:50%;
+				height:15%;
+				background:#0000FF;
+				border-radius:50%;
+				box-shadow: 0 0 15px #cbcbcb;
+	           -moz-box-shadow: 0 0 15px #cbcbcb;
+	           -webkit-box-shadow: 0 0 15px #cbcbcb;
+				}
+				.logistics{
+				width:50%;
+				height:15%;
+				background:#00FF66;
+				border-radius:50%;
+				box-shadow: 0 0 15px #cbcbcb;
+	           -moz-box-shadow: 0 0 15px #cbcbcb;
+	           -webkit-box-shadow: 0 0 15px #cbcbcb;
+				}
+				.inventory{
+				width:50%;
+				height:15%;
+				background:#FFA500;
+				border-radius:50%;
+				box-shadow: 0 0 15px #cbcbcb;
+	           -moz-box-shadow: 0 0 15px #cbcbcb;
+	           -webkit-box-shadow: 0 0 15px #cbcbcb;
+				}
